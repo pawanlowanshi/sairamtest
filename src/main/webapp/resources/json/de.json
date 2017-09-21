@@ -1,0 +1,16 @@
+{
+
+	"loginheading": "Anmeldung",
+    "loginfailmsg": "Anmeldung fehlgeschlagen!!!",
+    "loginfailreson": "Grund",
+    "loginentermsg": "Geben Sie Benutzernamen und Passwort ein",
+    "loginusername": "Benutzer",
+    "loginpassword": "Passwort",
+    "loginsubmit": "einreichen",
+    
+    "userInfoheading": "Benutzer Info Seite",
+    "userInfowelcome": "Herzlich willkommen",
+    "userInfoprotectedmsg": "Dies ist geschützte Seite!",
+    "userInfopaypalindicater": "Bitte klicken Sie auf Gegebene Schaltfläche für Zahlung"
+
+}

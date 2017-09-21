@@ -1,0 +1,15 @@
+{
+    "loginheading": "登录",
+    "loginfailmsg": "登录失败！！！",
+    "loginfailreson": "原因",
+    "loginentermsg": "输入用户名和密码",
+    "loginusername": "用户",
+    "loginpassword": "密码",
+    "loginsubmit": "提交",
+    
+    "userInfoheading": "用户信息页",
+    "userInfowelcome": "欢迎",
+    "userInfoprotectedmsg": "这是受保护的页面！",
+    "userInfopaypalindicater": "请点击给定按钮付款"
+    
+}

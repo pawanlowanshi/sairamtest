@@ -1,0 +1,15 @@
+{
+    "loginheading": "Login",
+    "loginfailmsg": "Login Failed!!!",
+    "loginfailreson": "Reason",
+    "loginentermsg": "Enter user name and password",
+    "loginusername": "User",
+    "loginpassword": "Password",
+    "loginsubmit": "submit",
+    
+    "userInfoheading": "User Info Page",
+    "userInfowelcome": "Welcome",
+    "userInfoprotectedmsg": "This is protected page!",
+    "userInfopaypalindicater": "Please Click On Given Button For Payment"
+    
+}
